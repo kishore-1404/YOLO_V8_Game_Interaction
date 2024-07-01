@@ -1,0 +1,1 @@
+cvat-cli --server-host http://localhost:8080/ --auth admin auto-annotate 2 --function-file .\auto_annotate.py --allow-unmatched-labels
